@@ -77,5 +77,6 @@ public class Main {
         main.ShowValues();
         main.ShowMenu();
         Log.Add("Работа с программой окончена");
+        Log.Add("Для демонстрации работы с GitHub commit");
     }
 }
